@@ -1,2 +1,2 @@
-SSID=https://sheets.googleapis.com/v4/spreadsheets/1aIIraAdr7vl2ptpY0quHuwS1HzsdoHBQb6fa5HCNcVs/values/okazaki!A2:K1000?key=AIzaSyD_IOHRq23QuvGfO-N_LYKDyDs9-27v1ek
+SSID=1aIIraAdr7vl2ptpY0quHuwS1HzsdoHBQb6fa5HCNcVs
 SNAME=okazaki!A2:K1000
